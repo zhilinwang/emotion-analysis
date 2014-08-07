@@ -1,0 +1,18 @@
+#degree
+/root/moodevaluator/main/server/senti-analysis/dict/adv_extreme.dict	5
+/root/moodevaluator/main/server/senti-analysis/dict/adv_very.dict	4
+/root/moodevaluator/main/server/senti-analysis/dict/adv_more.dict    3  
+/root/moodevaluator/main/server/senti-analysis/dict/adv_insuff.dict   -1   
+/root/moodevaluator/main/server/senti-analysis/dict/adv_ish.dict      2
+/root/moodevaluator/main/server/senti-analysis/dict/adv_over.dict	4
+#emotion       
+/root/moodevaluator/main/server/senti-analysis/dict/words_pos.dict	1
+/root/moodevaluator/main/server/senti-analysis/dict/weibo_pos.dict	5
+/root/moodevaluator/main/server/senti-analysis/dict/words_neg.dict	-1
+/root/moodevaluator/main/server/senti-analysis/dict/weibo_neg.dict	-5
+#domain       
+/root/moodevaluator/main/server/senti-analysis/dict/weibo_face.dict
+#stopword       
+/root/moodevaluator/main/server/senti-analysis/dict/stop_word.dict
+#reverse
+/root/moodevaluator/main/server/senti-analysis/dict/reverse.dict	-1

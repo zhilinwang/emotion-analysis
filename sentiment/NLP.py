@@ -64,7 +64,7 @@ def sa(s):
         sIdx=eIdx
         score_sum+=score
     return score_sum
-
+'''Not completed'''
 def tags(statuses):
     stats=[]
     for s in statuses:
@@ -105,7 +105,7 @@ def tags(statuses):
                 else:
                     result[word]+=tf_idf[(i,word)]
     return result       
-
+'''Not completed'''
 def tf_idfs(statuses):
     tf_idf={}
     matrix={}
